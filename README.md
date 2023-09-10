@@ -2,7 +2,7 @@
 - 👀 工作：baidu FE
 - 🌱 经历：18线FE
 - 💞️ 现在：努力搬砖中
-- 📫 微信：sea_Any
+- 📫 微信：
 
 <!---
 G-WangZH/G-WangZH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
